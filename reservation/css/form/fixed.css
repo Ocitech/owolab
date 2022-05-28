@@ -1,0 +1,14 @@
+.body{
+	display:block;
+	width:1000px;
+	height:auto;
+	border:#030;
+	margin-left:174x;
+	margin-top:15px;
+	margin-bottom:10px;
+	border-bottom:none;
+	-webkit-box-shadow: 0px 0px 6px 0px rgba(50, 44, 50, 0.99);
+-moz-box-shadow:    0px 0px 6px 0px rgba(50, 44, 50, 0.99);
+box-shadow:         0px 0px 6px 0px rgba(50, 44, 50, 0.99);
+	
+}

@@ -1,0 +1,6 @@
+@charset "utf-8";
+#head_ {
+	-webkit-box-shadow: -1px 0px 7px 0px rgba(64, 57, 55, 0.82);
+-moz-box-shadow:    -1px 0px 7px 0px rgba(64, 57, 55, 0.82);
+box-shadow:         -1px 0px 7px 0px rgba(64, 57, 55, 0.82);
+}

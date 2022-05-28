@@ -1,0 +1,17 @@
+@charset "utf-8";
+.footer {
+	width:1000px;
+	background:#FDF7F7;
+	height:40px;
+	padding:10px;
+	margin-top:15px;
+	font-family:Verdana, Geneva, sans-serif 'gisha';
+	border-radius:0px 0px 8px 8px;
+	border:#060;
+	-webkit-box-shadow:0px 0px 6px 0px rgba(50, 44, 50, 0.99);
+	-moz-box-shadow:0px 0px 6px 0px rgba(50, 44, 50, 0.99);
+	box-shadow:0px 0px 6px 0px rgba(50, 44, 50, 0.99);
+	text-align:right;
+	text-shadow: 1px 1px 1px #969696;
+	
+}
